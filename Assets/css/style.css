@@ -231,13 +231,13 @@ body {
     .work {
       width: 220px;
     }
-
+    
     .work img {
       width: 80%;
     }
 
     .work h3 {
-      width: 80%;
+      width: 80%; 
     }
 
     footer {
